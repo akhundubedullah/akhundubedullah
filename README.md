@@ -52,31 +52,27 @@ For more projects, check out my [repositories](https://github.com/akhundubedulla
 
 ---
 
-## 📈 Repository Statistics
+📈 Repository Statistics
 
-### Language Distribution:
+Language Distribution:
 
-```html
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhundubedullah&layout=compact&theme=radical" alt="Language Distribution" />
-</div>
-```
+Python: 70%
 
-### Fun Stats:
+JavaScript: 15%
 
-```html
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhundubedullah&show_icons=true&theme=radical" alt="Fun Stats" />
-</div>
-```
+Java: 10%
 
----
+C++: 5%
 
-## 🎓 Certifications & Contributions
+Fun Stats:
 
-- **Girlscript Summer of Code Contributor** - GSSoC
-- **Postman API Challenge Completed**
+🔧 Total Repositories: 25+
 
+🔄 Forked Projects: 10+
+
+⭐ Stars Gained: 50+
+
+🏆 Top Languages: Python, JavaScript
 
 
 ---
@@ -85,7 +81,7 @@ For more projects, check out my [repositories](https://github.com/akhundubedulla
 
 - **LinkedIn:** [Ubedullah Akhund](http://linkedin.com/in/ubedullah-akhund-8187a925b)
 - **Portfolio:** Coming soon!
-- **Email:** [ubedullahakhund@example.com](mailto\:ubedullahakhund@example.com)
+- **Email:** [akhundubedullah04@gmail.com](mailto\:akhundubedullah04@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech and AI!
 
